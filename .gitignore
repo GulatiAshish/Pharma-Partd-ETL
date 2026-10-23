@@ -1,0 +1,13 @@
+# data & databases (raw CMS files are large - don't commit)
+data/raw/*.csv
+*.db
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/

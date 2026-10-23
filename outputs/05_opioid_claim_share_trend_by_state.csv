@@ -1,0 +1,103 @@
+state,year,opioid_share_pct,change_pct_points
+Alabama,2023,5.44,
+Alabama,2024,5.2,-0.24
+Alaska,2023,4.11,
+Alaska,2024,3.88,-0.23
+Arizona,2023,4.26,
+Arizona,2024,4.06,-0.2
+Arkansas,2023,4.93,
+Arkansas,2024,4.74,-0.19
+California,2023,3.46,
+California,2024,3.31,-0.15
+Colorado,2023,4.85,
+Colorado,2024,4.67,-0.18
+Connecticut,2023,2.94,
+Connecticut,2024,2.79,-0.14
+Delaware,2023,3.87,
+Delaware,2024,3.68,-0.19
+District of Columbia,2023,2.64,
+District of Columbia,2024,2.68,0.04
+Florida,2023,3.69,
+Florida,2024,3.53,-0.16
+Georgia,2023,4.53,
+Georgia,2024,4.33,-0.2
+Hawaii,2023,2.87,
+Hawaii,2024,2.78,-0.1
+Idaho,2023,5.24,
+Idaho,2024,5.02,-0.22
+Illinois,2023,3.35,
+Illinois,2024,3.16,-0.18
+Indiana,2023,4.42,
+Indiana,2024,4.25,-0.16
+Iowa,2023,3.28,
+Iowa,2024,3.16,-0.11
+Kansas,2023,4.32,
+Kansas,2024,4.15,-0.17
+Kentucky,2023,4.52,
+Kentucky,2024,4.46,-0.06
+Louisiana,2023,4.37,
+Louisiana,2024,4.2,-0.17
+Maine,2023,3.51,
+Maine,2024,3.31,-0.2
+Maryland,2023,4.04,
+Maryland,2024,3.76,-0.28
+Massachusetts,2023,2.88,
+Massachusetts,2024,2.74,-0.14
+Michigan,2023,4.38,
+Michigan,2024,4.22,-0.16
+Minnesota,2023,3.19,
+Minnesota,2024,3.05,-0.13
+Mississippi,2023,4.23,
+Mississippi,2024,4.07,-0.16
+Missouri,2023,4.14,
+Missouri,2024,3.95,-0.2
+Montana,2023,4.61,
+Montana,2024,4.38,-0.23
+Nebraska,2023,3.54,
+Nebraska,2024,3.37,-0.18
+Nevada,2023,4.81,
+Nevada,2024,4.66,-0.15
+New Hampshire,2023,3.23,
+New Hampshire,2024,2.99,-0.25
+New Jersey,2023,2.59,
+New Jersey,2024,2.44,-0.16
+New Mexico,2023,4.02,
+New Mexico,2024,3.87,-0.15
+New York,2023,2.15,
+New York,2024,2.05,-0.1
+North Carolina,2023,4.37,
+North Carolina,2024,4.17,-0.2
+North Dakota,2023,3.04,
+North Dakota,2024,2.99,-0.06
+Ohio,2023,3.34,
+Ohio,2024,3.25,-0.08
+Oklahoma,2023,5.01,
+Oklahoma,2024,4.77,-0.24
+Oregon,2023,4.85,
+Oregon,2024,4.7,-0.15
+Pennsylvania,2023,3.05,
+Pennsylvania,2024,2.94,-0.11
+Rhode Island,2023,2.48,
+Rhode Island,2024,2.45,-0.03
+South Carolina,2023,4.13,
+South Carolina,2024,4.04,-0.1
+South Dakota,2023,3.54,
+South Dakota,2024,3.47,-0.07
+Tennessee,2023,4.58,
+Tennessee,2024,4.39,-0.19
+Texas,2023,3.77,
+Texas,2024,3.64,-0.14
+Utah,2023,5.37,
+Utah,2024,5.13,-0.24
+Vermont,2023,3.31,
+Vermont,2024,3.22,-0.08
+Virginia,2023,3.5,
+Virginia,2024,3.31,-0.19
+Washington,2023,4.45,
+Washington,2024,4.26,-0.19
+West Virginia,2023,3.3,
+West Virginia,2024,3.2,-0.1
+Wisconsin,2023,3.46,
+Wisconsin,2024,3.26,-0.2
+Wyoming,2023,4.63,
+Wyoming,2024,4.59,-0.04

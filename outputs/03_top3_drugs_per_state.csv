@@ -1,0 +1,154 @@
+state,rnk,brand_name,spend_usd_mn
+Alabama,1,ELIQUIS,357.7
+Alabama,2,OZEMPIC,273.4
+Alabama,3,MOUNJARO,212.6
+Alaska,1,ELIQUIS,31.3
+Alaska,2,OZEMPIC,23.4
+Alaska,3,JARDIANCE,16.6
+Arizona,1,ELIQUIS,412.5
+Arizona,2,OZEMPIC,229.3
+Arizona,3,JARDIANCE,183.8
+Arkansas,1,ELIQUIS,204.1
+Arkansas,2,OZEMPIC,148.9
+Arkansas,3,JARDIANCE,98.5
+California,1,ELIQUIS,1579.8
+California,2,JARDIANCE,1207.2
+California,3,OZEMPIC,1103.0
+Colorado,1,ELIQUIS,263.1
+Colorado,2,JARDIANCE,127.8
+Colorado,3,OZEMPIC,122.2
+Connecticut,1,ELIQUIS,321.8
+Connecticut,2,OZEMPIC,184.1
+Connecticut,3,JARDIANCE,161.9
+Delaware,1,ELIQUIS,75.9
+Delaware,2,OZEMPIC,50.5
+Delaware,3,JARDIANCE,45.3
+District of Columbia,1,BIKTARVY,40.0
+District of Columbia,2,ELIQUIS,32.1
+District of Columbia,3,JARDIANCE,24.7
+Florida,1,ELIQUIS,1583.1
+Florida,2,OZEMPIC,910.5
+Florida,3,JARDIANCE,723.7
+Georgia,1,ELIQUIS,624.1
+Georgia,2,OZEMPIC,457.7
+Georgia,3,JARDIANCE,326.1
+Hawaii,1,JARDIANCE,54.4
+Hawaii,2,ELIQUIS,50.6
+Hawaii,3,OZEMPIC,47.9
+Idaho,1,ELIQUIS,109.8
+Idaho,2,OZEMPIC,66.9
+Idaho,3,JARDIANCE,47.6
+Illinois,1,ELIQUIS,767.7
+Illinois,2,JARDIANCE,465.6
+Illinois,3,OZEMPIC,439.0
+Indiana,1,ELIQUIS,492.8
+Indiana,2,OZEMPIC,340.5
+Indiana,3,JARDIANCE,268.3
+Iowa,1,ELIQUIS,209.1
+Iowa,2,OZEMPIC,146.6
+Iowa,3,JARDIANCE,109.8
+Kansas,1,ELIQUIS,175.6
+Kansas,2,OZEMPIC,118.0
+Kansas,3,JARDIANCE,86.9
+Kentucky,1,ELIQUIS,351.3
+Kentucky,2,OZEMPIC,250.9
+Kentucky,3,JARDIANCE,190.5
+Louisiana,1,ELIQUIS,304.8
+Louisiana,2,OZEMPIC,252.1
+Louisiana,3,MOUNJARO,217.5
+Maine,1,ELIQUIS,135.4
+Maine,2,JARDIANCE,65.4
+Maine,3,OZEMPIC,56.0
+Maryland,1,ELIQUIS,318.7
+Maryland,2,OZEMPIC,194.2
+Maryland,3,JARDIANCE,167.1
+Massachusetts,1,ELIQUIS,592.0
+Massachusetts,2,JARDIANCE,271.3
+Massachusetts,3,OZEMPIC,242.6
+Michigan,1,ELIQUIS,812.9
+Michigan,2,JARDIANCE,427.4
+Michigan,3,OZEMPIC,392.4
+Minnesota,1,ELIQUIS,338.0
+Minnesota,2,OZEMPIC,193.6
+Minnesota,3,JARDIANCE,174.0
+Mississippi,1,ELIQUIS,165.9
+Mississippi,2,OZEMPIC,158.4
+Mississippi,3,JARDIANCE,124.2
+Missouri,1,ELIQUIS,458.7
+Missouri,2,OZEMPIC,287.0
+Missouri,3,JARDIANCE,237.7
+Montana,1,ELIQUIS,63.0
+Montana,2,OZEMPIC,34.9
+Montana,3,JARDIANCE,29.6
+Nebraska,1,ELIQUIS,118.3
+Nebraska,2,OZEMPIC,65.7
+Nebraska,3,JARDIANCE,60.3
+Nevada,1,ELIQUIS,152.1
+Nevada,2,OZEMPIC,99.9
+Nevada,3,JARDIANCE,89.1
+New Hampshire,1,ELIQUIS,100.8
+New Hampshire,2,OZEMPIC,47.3
+New Hampshire,3,JARDIANCE,40.6
+New Jersey,1,ELIQUIS,575.9
+New Jersey,2,OZEMPIC,318.7
+New Jersey,3,JARDIANCE,270.8
+New Mexico,1,ELIQUIS,82.3
+New Mexico,2,OZEMPIC,63.8
+New Mexico,3,JARDIANCE,46.6
+New York,1,ELIQUIS,1408.6
+New York,2,OZEMPIC,903.6
+New York,3,JARDIANCE,875.8
+North Carolina,1,ELIQUIS,777.0
+North Carolina,2,OZEMPIC,525.7
+North Carolina,3,JARDIANCE,415.5
+North Dakota,1,ELIQUIS,50.5
+North Dakota,2,OZEMPIC,34.2
+North Dakota,3,JARDIANCE,25.3
+Ohio,1,ELIQUIS,921.8
+Ohio,2,OZEMPIC,457.1
+Ohio,3,JARDIANCE,446.7
+Oklahoma,1,ELIQUIS,247.4
+Oklahoma,2,OZEMPIC,202.2
+Oklahoma,3,JARDIANCE,130.0
+Oregon,1,ELIQUIS,283.9
+Oregon,2,OZEMPIC,127.7
+Oregon,3,JARDIANCE,127.5
+Pennsylvania,1,ELIQUIS,1155.0
+Pennsylvania,2,JARDIANCE,596.9
+Pennsylvania,3,OZEMPIC,573.5
+Rhode Island,1,ELIQUIS,86.9
+Rhode Island,2,JARDIANCE,44.1
+Rhode Island,3,OZEMPIC,38.5
+South Carolina,1,ELIQUIS,363.3
+South Carolina,2,OZEMPIC,257.8
+South Carolina,3,JARDIANCE,202.8
+South Dakota,1,ELIQUIS,56.9
+South Dakota,2,OZEMPIC,32.7
+South Dakota,3,JARDIANCE,25.6
+Tennessee,1,ELIQUIS,508.7
+Tennessee,2,OZEMPIC,348.9
+Tennessee,3,JARDIANCE,241.1
+Texas,1,ELIQUIS,1219.8
+Texas,2,OZEMPIC,1179.9
+Texas,3,JARDIANCE,788.5
+Utah,1,ELIQUIS,134.4
+Utah,2,JARDIANCE,60.9
+Utah,3,OZEMPIC,57.9
+Vermont,1,ELIQUIS,51.6
+Vermont,2,OZEMPIC,24.4
+Vermont,3,JARDIANCE,20.8
+Virginia,1,ELIQUIS,509.6
+Virginia,2,OZEMPIC,265.2
+Virginia,3,JARDIANCE,238.6
+Washington,1,ELIQUIS,379.3
+Washington,2,JARDIANCE,241.5
+Washington,3,OZEMPIC,216.2
+West Virginia,1,ELIQUIS,143.5
+West Virginia,2,OZEMPIC,121.5
+West Virginia,3,JARDIANCE,84.0
+Wisconsin,1,ELIQUIS,451.5
+Wisconsin,2,JARDIANCE,220.4
+Wisconsin,3,OZEMPIC,196.1
+Wyoming,1,ELIQUIS,28.5
+Wyoming,2,OZEMPIC,14.9
+Wyoming,3,JARDIANCE,9.9
