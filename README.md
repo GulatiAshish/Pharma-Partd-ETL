@@ -2,7 +2,7 @@
 
 An end-to-end **Python + SQL ETL pipeline** that ingests public CMS Medicare Part D prescription data,
 cleans and validates it, loads it into a **star-schema relational database**, and runs analytical SQL
-to answer pharma commercial questions: which drugs drive spend, which added the most spend year-over-year,
+to answer pharma commercial questions: which drugs drive spend, which added the most spend YoY,
 how generic adoption varies by state, and how opioid prescribing is trending.
 
 ## Architecture
@@ -25,7 +25,7 @@ how generic adoption varies by state, and how opioid prescribing is trending.
 ## Data source
 
 [CMS – Medicare Part D Prescribers by Geography and Drug](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-geography-and-drug)
-(public, U.S. government work). Data years 2023 and 2024 are used. Raw files are not committed (see `.gitignore`).
+(public, U.S. government work). Data years 2023 and 2024 are used.
 
 ## Engineering highlights
 
@@ -49,12 +49,10 @@ how generic adoption varies by state, and how opioid prescribing is trending.
 
 ## Key findings
 
-<!-- Fill these in from outputs/ after your run, e.g.: -->
-- _Top drug by spend in 2024: … ($… bn)_
-- _Biggest spend increase 2023→2024: … (+$…M); fastest new entrant: …_
+- _Top drug by spend in 2024: … ($20.77 bn)_
 - Generics are ~75% of prescriptions in every state but only ~10% of spend: brand drugs drive Medicare drug cost.
 
-## How to run
+<!-- ## How to run
 
 ```bash
 python -m venv .venv
@@ -68,9 +66,9 @@ python -m pytest -v                        # run tests
 # optional: MySQL instead of SQLite
 pip install pymysql
 python -m etl.pipeline --db "mysql+pymysql://user:password@localhost/partd"
-```
+``` -->
 
-## Project structure
+<!-- ## Project structure
 
 ```
 etl/        extract.py, transform.py, load.py, analyze.py, pipeline.py (entry point)
@@ -78,4 +76,4 @@ sql/        analysis.sql
 tests/      test_pipeline.py
 data/raw/   input CSVs (git-ignored)
 outputs/    query results (CSV)
-```
+``` -->
